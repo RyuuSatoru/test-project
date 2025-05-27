@@ -21,25 +21,16 @@ Dự án AI này hỗ trợ truy vấn thông minh trên nhiều định dạng 
 ## 📓 Dùng trên Google Colab
 
 Bạn có thể chạy toàn bộ project này chỉ trong vài bước đơn giản:
-
-### 1. Tải project
+Link Google Colab
 ```python
-!git clone https://github.com/RyuuSatoru/test-project.git
-%cd test-project
-```
-### 2. Cài thư viện
-```python
-!pip install -q --progress-bar off -r requirements.txt
-```
-### 3. Tiền xử lý dữ liệu media
-```python
-!python Run-test.py 2>/dev/null
-```
-### 4. Khởi chạy truy vấn (có UI nhập prompt)
-Mở file project.ipynb, chạy các ô để nhập prompt và nhận phản hồi từ LLM.
-```Google Colab
 https://colab.research.google.com/github/RyuuSatoru/test-project/blob/main/project.ipynb
 ```
+
+### 1. Tải project
+### 2. Cài thư viện
+### 3. Tiền xử lý dữ liệu media
+### 4. Khởi chạy truy vấn (có UI nhập prompt)
+
 ## 💻 Dùng trên máy cục bộ (Local Machine)
 ```python
 git clone https://github.com/RyuuSatoru/test-project.git
