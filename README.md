@@ -24,5 +24,31 @@ Bạn có thể chạy toàn bộ project này chỉ trong vài bước đơn gi
 
 ### 1. Tải project
 ```python
-!git clone [https://github.com/RyuuSatoru/test-similar.git](https://github.com/RyuuSatoru/test-similar.git)
-%cd test-similar
+!git clone https://github.com/RyuuSatoru/test-project.git
+%cd test-project
+```
+### 2. Cài thư viện
+```python
+!pip install -q --progress-bar off -r requirements.txt
+```
+### 3. Tiền xử lý dữ liệu media
+```python
+!python Run-test.py 2>/dev/null
+```
+### 4. Khởi chạy truy vấn (có UI nhập prompt)
+Mở file project.ipynb, chạy các ô để nhập prompt và nhận phản hồi từ LLM.
+
+## 💻 Dùng trên máy cục bộ (Local Machine)
+```python
+git clone https://github.com/RyuuSatoru/test-project.git
+cd test-similar
+pip install -r requirements.txt
+python Run-test.py
+python Run.py
+```
+## 📍 Ghi chú
+Nếu repo là private, bạn cần dùng SSH key hoặc GitHub token để git clone.
+Dữ liệu văn bản (document.json) hiện đang bảo trì, có thể bỏ qua khi chỉ dùng media.
+
+## 💡 Tác giả
+Dự án xây dựng bởi Kagami , định hướng phát triển trợ lý ảo thông minh ứng dụng vào lĩnh vực tìm kiếm thông tin từ video/audio theo ngôn ngữ tự nhiên.
