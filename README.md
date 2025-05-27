@@ -26,10 +26,10 @@ Link Google Colab
 https://colab.research.google.com/github/RyuuSatoru/test-project/blob/main/project.ipynb
 ```
 ### Hướng dẫn
-Bước 1: Tải project
-Bước 2: Cài thư viện
-Bước 3: Tiền xử lý dữ liệu media
-Bước 4: Khởi chạy truy vấn (có UI nhập prompt)
+- Bước 1: Tải project
+- Bước 2: Cài thư viện
+- Bước 3: Tiền xử lý dữ liệu media
+- Bước 4: Khởi chạy truy vấn (có UI nhập prompt)
 
 ## 💻 Dùng trên máy cục bộ (Local Machine)
 ```python
