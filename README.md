@@ -46,6 +46,8 @@ python Run.py
 ## 📍 Ghi chú
 Nếu repo là private, bạn cần dùng SSH key hoặc GitHub token để git clone.
 Dữ liệu văn bản (document.json) hiện đang bảo trì, có thể bỏ qua khi chỉ dùng media.
+
 ---
+
 ## 💡 Tác giả
 Dự án xây dựng bởi Kagami , định hướng phát triển trợ lý ảo thông minh ứng dụng vào lĩnh vực tìm kiếm thông tin từ video/audio theo ngôn ngữ tự nhiên.
