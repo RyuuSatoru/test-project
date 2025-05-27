@@ -31,6 +31,8 @@ https://colab.research.google.com/github/RyuuSatoru/test-project/blob/main/proje
 - Bước 3: Tiền xử lý dữ liệu media
 - Bước 4: Khởi chạy truy vấn (có UI nhập prompt)
 
+---
+
 ## 💻 Dùng trên máy cục bộ (Local Machine)
 ```python
 git clone https://github.com/RyuuSatoru/test-project.git
@@ -39,9 +41,11 @@ pip install -r requirements.txt
 python Run-test.py
 python Run.py
 ```
+
+---
 ## 📍 Ghi chú
 Nếu repo là private, bạn cần dùng SSH key hoặc GitHub token để git clone.
 Dữ liệu văn bản (document.json) hiện đang bảo trì, có thể bỏ qua khi chỉ dùng media.
-
+---
 ## 💡 Tác giả
 Dự án xây dựng bởi Kagami , định hướng phát triển trợ lý ảo thông minh ứng dụng vào lĩnh vực tìm kiếm thông tin từ video/audio theo ngôn ngữ tự nhiên.
