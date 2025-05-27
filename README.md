@@ -41,7 +41,7 @@ Mở file project.ipynb, chạy các ô để nhập prompt và nhận phản h�
 ## 💻 Dùng trên máy cục bộ (Local Machine)
 ```python
 git clone https://github.com/RyuuSatoru/test-project.git
-cd test-similar
+cd test-project
 pip install -r requirements.txt
 python Run-test.py
 python Run.py
