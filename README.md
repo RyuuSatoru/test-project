@@ -37,7 +37,9 @@ Bạn có thể chạy toàn bộ project này chỉ trong vài bước đơn gi
 ```
 ### 4. Khởi chạy truy vấn (có UI nhập prompt)
 Mở file project.ipynb, chạy các ô để nhập prompt và nhận phản hồi từ LLM.
-
+```Google Colab
+https://colab.research.google.com/github/RyuuSatoru/test-project/blob/main/project.ipynb
+```
 ## 💻 Dùng trên máy cục bộ (Local Machine)
 ```python
 git clone https://github.com/RyuuSatoru/test-project.git
