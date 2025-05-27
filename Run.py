@@ -61,4 +61,3 @@ def on_button_click(b):
 send_button.on_click(on_button_click)
 
 display(widgets.VBox([text_box, send_button, output_area]))
-display(ui)
