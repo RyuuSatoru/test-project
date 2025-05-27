@@ -1,0 +1,29 @@
+[
+  {
+    "path": "Media/bird.mp4",
+    "summary": "Nội dung chính: Không nhận diện được nội dung.",
+    "transcript": "",
+    "labels": [],
+    "filename": "bird.mp4"
+  },
+  {
+    "path": "Media/fish.mp4",
+    "summary": "Nội dung chính: kite, airplane, person",
+    "transcript": "you",
+    "labels": [
+      "kite",
+      "airplane",
+      "person"
+    ],
+    "filename": "fish.mp4"
+  },
+  {
+    "path": "Media/polar_bear.mp4",
+    "summary": "Nội dung chính: bear",
+    "transcript": "You",
+    "labels": [
+      "bear"
+    ],
+    "filename": "polar_bear.mp4"
+  }
+]
