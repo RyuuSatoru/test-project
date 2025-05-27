@@ -21,7 +21,7 @@ Dự án AI này hỗ trợ truy vấn thông minh trên nhiều định dạng 
 ## 📓 Dùng trên Google Colab
 
 Bạn có thể chạy toàn bộ project này chỉ trong vài bước đơn giản:
-Link Google Colab
+### Link Google Colab
 ```python
 https://colab.research.google.com/github/RyuuSatoru/test-project/blob/main/project.ipynb
 ```
