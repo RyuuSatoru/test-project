@@ -1,4 +1,5 @@
 🧠 test-project
+
 Trợ lý truy vấn dữ liệu đa phương tiện
 Dự án AI này hỗ trợ truy vấn thông minh trên nhiều định dạng dữ liệu như video, ảnh, âm thanh, và văn bản — tất cả được xử lý trước, chuẩn hóa, và phản hồi qua mô hình ngôn ngữ lớn (LLM).
 
